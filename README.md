@@ -15,3 +15,8 @@ change the output layer.
 This model has achieved  0.992 Score based on  Area under ROC curve between the predicted probability and the observed target (wheather the image has oilpalm or not )
 
 Further the IPython notebook attached has comments explaining each step to follow 
+
+**Reference**
+Using Transfer Learning :
+Finetuning and Feature extraction from the `torchvision
+models <https://pytorch.org/docs/stable/torchvision/models.html>`
